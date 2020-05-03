@@ -11,5 +11,5 @@ Below are the list of api which you have mention to create.
 3. Calculate the distance from a give reference point and sort the given array on the basis of their distance.
   -http://localhost:8070/api/v1/sort/latLonFromReferencePoint
  
-Note: All are GET api with request body. 
+Note: All are GET api with request body and Request input are same as you given in the assignment.
   
